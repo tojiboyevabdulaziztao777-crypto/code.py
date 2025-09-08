@@ -5,5 +5,3 @@ a={
 }
 a.get("bir")
 print(a)
-# z=max(a,key=a.get)
-# print(z)
